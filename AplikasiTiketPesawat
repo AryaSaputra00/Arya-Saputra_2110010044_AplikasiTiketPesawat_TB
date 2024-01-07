@@ -1,0 +1,8 @@
+ant -f "C:\\Users\\ACER A5145433WF\\Documents\\NetBeansProjects\\AplikasiTiketPesawat" clean
+init:
+deps-clean:
+Created dir: C:\Users\ACER A5145433WF\Documents\NetBeansProjects\AplikasiTiketPesawat\build
+Updating property file: C:\Users\ACER A5145433WF\Documents\NetBeansProjects\AplikasiTiketPesawat\build\built-clean.properties
+Deleting directory C:\Users\ACER A5145433WF\Documents\NetBeansProjects\AplikasiTiketPesawat\build
+clean:
+BUILD SUCCESSFUL (total time: 2 seconds)
